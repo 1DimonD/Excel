@@ -1,0 +1,4 @@
+var * := ${*}
+supports +, -, *, /, ^, >, <, ==
+
+2021 (c) Dmytro Prokhorchuk K-26

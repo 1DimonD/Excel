@@ -1,0 +1,11 @@
+D:\Univ_C#\Work\Excel\bin\Debug\Excel.exe.config
+D:\Univ_C#\Work\Excel\bin\Debug\Excel.exe
+D:\Univ_C#\Work\Excel\bin\Debug\Excel.pdb
+D:\Univ_C#\Work\Excel\obj\Debug\Excel.Properties.Resources.resources
+D:\Univ_C#\Work\Excel\obj\Debug\Excel.csproj.GenerateResource.cache
+D:\Univ_C#\Work\Excel\obj\Debug\Excel.csproj.CoreCompileInputs.cache
+D:\Univ_C#\Work\Excel\obj\Debug\Excel.exe
+D:\Univ_C#\Work\Excel\obj\Debug\Excel.pdb
+D:\Univ_C#\Work\Excel\obj\Debug\Excel.MainWindow.resources
+D:\Univ_C#\Work\Excel\obj\Debug\Excel.csproj.AssemblyReference.cache
+D:\Univ_C#\Work\Excel\obj\Debug\Excel.csproj.SuggestedBindingRedirects.cache
